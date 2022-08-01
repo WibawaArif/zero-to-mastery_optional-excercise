@@ -1,3 +1,3 @@
-Clean the room function and HEX to RGB Converter function
+**Clean the room function and HEX to RGB Converter function**
 
-This is a extra excercise that Zero-to-Mastery courses provided.
+This is a extra excercise that Zero-to-Mastery courses provided and i tackled it.
